@@ -20,6 +20,7 @@ The project focuses on applying foundational OOP concepts in a practical way.
 ---
 
 ## 🧱 Project Structure
+```
 Banking-Management-System
 │
 ├── bank.h # Class declarations (Client & Manager)
@@ -28,10 +29,7 @@ Banking-Management-System
 ├── client1.cpp # Client 1 interface
 ├── client2.cpp # Client 2 interface
 └── client3.cpp # Client 3 interface
-
-
----
-
+```
 ## 👤 Client Functionalities
 
 Each client can:
